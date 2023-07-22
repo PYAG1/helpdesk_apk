@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306327041360",
+    "project_id": "helpdesk-f4408",
+    "storage_bucket": "helpdesk-f4408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306327041360:android:3f0b5022c33519de0ea855",
+        "android_client_info": {
+          "package_name": "com.example.helpdesk_apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306327041360-dpb7m4i21662el7q14hat43fs7c3m6jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helpdesk_apk",
+            "certificate_hash": "ef06762916bbfcc7c7870f65bcc05d8d5e13d2ab"
+          }
+        },
+        {
+          "client_id": "306327041360-2d4sstkqbj3jlghobr4ii1c4a8lomq4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3TdX6wHM6b6t3msXFO2hjmcTgSPaF6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306327041360-2d4sstkqbj3jlghobr4ii1c4a8lomq4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
